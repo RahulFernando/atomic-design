@@ -1,4 +1,4 @@
 node_modules/
 lib/
-dis/
-.cache/
+playground/react/dist
+playground/react/.cache
